@@ -2,8 +2,8 @@
 Simple Cracking Exercise, Not Really Cracking, Just Some Bit Flipping
 
 
-DMG Installer Located in
+DMG Installer Located at
 
-Crackthis/bin/Desktop
+https://drive.google.com/file/d/1caGoHPEVxWpYYPPAZyVggLcWa739BSc4/view?usp=sharing
 
 Install, Execute, Flip Bit, Submit, and Party!
